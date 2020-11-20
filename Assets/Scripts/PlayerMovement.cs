@@ -25,13 +25,13 @@ public class PlayerMovement : MonoBehaviour
     Vector2 movement;
     #endregion
 
-    private void Start()
+    private void Start() //Run when object spawns
     {
         //Store the RB and the Animator component in their variables
         Rigidbody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
-    void Update()
+    void Update() //Runs every frame
     {
         //Add the Axis to the Vector2
         movement.x = Input.GetAxisRaw("Horizontal");
@@ -47,7 +47,7 @@ public class PlayerMovement : MonoBehaviour
         anim.SetFloat("Speed", movement.sqrMagnitude);
     }
 
-    void FixedUpdate()
+    void FixedUpdate() //Runs the same amount of times on any PC
     {
         //Use the Vector2 to update the position of the RB
         Rigidbody.MovePosition(Rigidbody.position + movement * moveSpeed * Time.fixedDeltaTime);
