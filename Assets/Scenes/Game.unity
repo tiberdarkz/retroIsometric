@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -217,8 +217,8 @@ GameObject:
   - component: {fileID: 1232530351}
   - component: {fileID: 1232530350}
   - component: {fileID: 1232530349}
-  - component: {fileID: 1232530348}
   - component: {fileID: 1232530352}
+  - component: {fileID: 1232530348}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -239,8 +239,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
-  rb: {fileID: 1232530349}
-  anim: {fileID: 1232530352}
 --- !u!50 &1232530349
 Rigidbody2D:
   serializedVersion: 4
@@ -299,9 +297,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: 1676446005
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: -6038305766955137863, guid: b6576744791306b40813c41ddc75099b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -321,7 +319,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1232530347}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.047984082, y: 1.1036468, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
