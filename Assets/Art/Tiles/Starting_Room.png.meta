@@ -37,10 +37,10 @@ TextureImporter:
     second: BrickWallLeftCorner
   - first:
       213: -5865993755435729602
-    second: Starting_Room_5
+    second: RightCorner
   - first:
       213: 8533780857464269901
-    second: Starting_Room_6
+    second: RightSide
   - first:
       213: 7325019488628186205
     second: BrickWallRightCorner
@@ -59,6 +59,66 @@ TextureImporter:
   - first:
       213: 1485183834797967638
     second: BottomCorner2
+  - first:
+      213: 6389054709746716274
+    second: WoodenFloor
+  - first:
+      213: 1433983741837561688
+    second: BrickWall
+  - first:
+      213: 3046305368589339187
+    second: BrickLeftCorner
+  - first:
+      213: -8061624655441675125
+    second: BrickRightCorner
+  - first:
+      213: 2350711084493434183
+    second: LeftCorner
+  - first:
+      213: 7325019488628186205
+    second: TopEdge
+  - first:
+      213: -4143757618361404093
+    second: LeftSide
+  - first:
+      213: 2370952781863325095
+    second: BottomCorner
+  - first:
+      213: 9023510601833113567
+    second: Starting_Room_10
+  - first:
+      213: 5151254348985856196
+    second: WoodenFloor
+  - first:
+      213: 6903036474961168806
+    second: BrickWall
+  - first:
+      213: 5378033791089036158
+    second: BrickLeftCorner
+  - first:
+      213: -2672815949539547019
+    second: BrickRightCorner
+  - first:
+      213: 8775792755276776347
+    second: LeftCorner
+  - first:
+      213: 142394729343596658
+    second: RightCorner
+  - first:
+      213: 3109356714001633092
+    second: RightSide
+  - first:
+      213: 4553504192132230504
+    second: TopEdge
+  - first:
+      213: -7984740945143856264
+    second: LeftSide
+  - first:
+      213: -4297262878915151206
+    second: BottomCorner
+  - first:
+      213: -4173411502015831137
+    second: Starting_Room_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,7 +163,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,18 +222,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 288
-        width: 32
-        height: 32
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e4df8686b7aa850800000000000000
-      internalID: 6389054709746716274
+      spriteID: 4c0fcf2b98eec7740800000000000000
+      internalID: 5151254348985856196
       vertices: []
       indices: 
       edges: []
@@ -182,166 +242,166 @@ TextureImporter:
       name: BrickWall
       rect:
         serializedVersion: 2
-        x: 32
-        y: 288
-        width: 32
-        height: 32
+        x: 16
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85fc9e99d9886e310800000000000000
-      internalID: 1433983741837561688
+      spriteID: 6a900a1a9138ccf50800000000000000
+      internalID: 6903036474961168806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWallLeft
+      name: BrickLeftCorner
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc8eb2d3d92aa40800000000000000
+      internalID: 5378033791089036158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickRightCorner
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57862b91e0048ead0800000000000000
+      internalID: -2672815949539547019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCorner
       rect:
         serializedVersion: 2
         x: 64
-        y: 288
-        width: 32
-        height: 32
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33a022cb796a64a20800000000000000
-      internalID: 3046305368589339187
+      spriteID: b9308b8c301e9c970800000000000000
+      internalID: 8775792755276776347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWallRight
+      name: RightCorner
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b96c7043e9f100800000000000000
+      internalID: 142394729343596658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightSide
       rect:
         serializedVersion: 2
         x: 96
-        y: 288
-        width: 32
-        height: 32
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c3ed3961b5f1090800000000000000
-      internalID: -8061624655441675125
+      spriteID: 44f0b021577a62b20800000000000000
+      internalID: 3109356714001633092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWallLeftCorner
+      name: TopEdge
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2b4fefeb413f30800000000000000
+      internalID: 4553504192132230504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftSide
       rect:
         serializedVersion: 2
         x: 128
-        y: 288
-        width: 32
-        height: 32
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74dedc8d6476f9020800000000000000
-      internalID: 2350711084493434183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starting_Room_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 288
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3df79042cdc79ea0800000000000000
-      internalID: -5865993755435729602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BrickWallLeftEdge
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 345ff32966a6e76c0800000000000000
-      internalID: -4143757618361404093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BrickWallBottomEdge
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ad00364ef057e020800000000000000
-      internalID: 2370952781863325095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BrickWallRightEdge
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd7eb317513f93d70800000000000000
-      internalID: 9023510601833113567
+      spriteID: 8730f255a60803190800000000000000
+      internalID: -7984740945143856264
       vertices: []
       indices: 
       edges: []
@@ -350,40 +410,40 @@ TextureImporter:
       name: BottomCorner
       rect:
         serializedVersion: 2
-        x: 96
-        y: 256
-        width: 32
-        height: 32
+        x: 0
+        y: 128
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0a9be0d295833de0800000000000000
-      internalID: -1354592197291566579
+      spriteID: a9a3ac3fd2e0d54c0800000000000000
+      internalID: -4297262878915151206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BottomCorner2
+      name: Starting_Room_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 32
-        height: 32
+        x: 16
+        y: 128
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 619094334de6c9410800000000000000
-      internalID: 1485183834797967638
+      spriteID: f9321d0c9501516c0800000000000000
+      internalID: -4173411502015831137
       vertices: []
       indices: 
       edges: []
