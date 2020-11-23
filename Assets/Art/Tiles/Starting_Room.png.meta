@@ -230,6 +230,12 @@ TextureImporter:
   - first:
       213: -6982138559895620128
     second: Starting_Room_14
+  - first:
+      213: 2906826837220377220
+    second: Starting_Room_15
+  - first:
+      213: 8079824386829182227
+    second: Starting_Room_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -639,6 +645,48 @@ TextureImporter:
       bones: []
       spriteID: 0e53dd409f57a1f90800000000000000
       internalID: -6982138559895620128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starting_Room_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c7108b9f175820800000000000000
+      internalID: 2906826837220377220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starting_Room_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ed78987d412070800000000000000
+      internalID: 8079824386829182227
       vertices: []
       indices: 
       edges: []

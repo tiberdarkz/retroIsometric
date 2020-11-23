@@ -86,6 +86,15 @@ TextureImporter:
   - first:
       213: 167953262957207670
     second: Starting_Room_HackerVision_14
+  - first:
+      213: 2466026406837105619
+    second: Starting_Room_HackerVision_15
+  - first:
+      213: -691210595397113502
+    second: Starting_Room_HackerVision_16
+  - first:
+      213: -4941699512410543461
+    second: Starting_Room_HackerVision_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -495,6 +504,69 @@ TextureImporter:
       bones: []
       spriteID: 670ae615a90b45200800000000000000
       internalID: 167953262957207670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starting_Room_HackerVision_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3324293f5193220800000000000000
+      internalID: 2466026406837105619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starting_Room_HackerVision_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696e5c20a35866f0800000000000000
+      internalID: -691210595397113502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starting_Room_HackerVision_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6c08c97e8b6bb0800000000000000
+      internalID: -4941699512410543461
       vertices: []
       indices: 
       edges: []
