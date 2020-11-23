@@ -1,235 +1,91 @@
 fileFormatVersion: 2
-guid: d9f3882af0a57184a85ddca984aa9714
+guid: 764abcb8fea7c4b4294de099a213ff0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6389054709746716274
-    second: WoodenFloor
+      213: -8088597663040431479
+    second: Starting_Room_HackerVision_0
   - first:
-      213: 1433983741837561688
-    second: BrickWall
+      213: 5327462904724722470
+    second: Starting_Room_HackerVision_1
   - first:
-      213: 3046305368589339187
-    second: Wall_Left
+      213: -8066275033035046631
+    second: Starting_Room_HackerVision_2
   - first:
-      213: -8061624655441675125
-    second: Wall_Right
+      213: 1918666026512920494
+    second: Starting_Room_HackerVision_3
   - first:
-      213: 2350711084493434183
-    second: Wall_Both
+      213: 2987184894466925872
+    second: Starting_Room_HackerVision_4
   - first:
-      213: -5865993755435729602
-    second: Wall_Down
+      213: -709731097644622100
+    second: Starting_Room_HackerVision_5
   - first:
-      213: 8533780857464269901
-    second: LineWall
+      213: 990645724981082041
+    second: Starting_Room_HackerVision_6
   - first:
-      213: 7325019488628186205
-    second: LineRight
+      213: 5277972917673627705
+    second: Starting_Room_HackerVision_7
   - first:
-      213: 3046305368589339187
-    second: BrickWallLeft
+      213: -7028913781746056865
+    second: Starting_Room_HackerVision_8
   - first:
-      213: -8061624655441675125
-    second: BrickWallRight
+      213: -1696725855023727376
+    second: Starting_Room_HackerVision_9
   - first:
-      213: 2350711084493434183
-    second: BrickWallLeftCorner
+      213: 5912158248818722729
+    second: Starting_Room_HackerVision_10
   - first:
-      213: -5865993755435729602
-    second: RightCorner
+      213: -497130303351171157
+    second: Starting_Room_HackerVision_11
   - first:
-      213: 8533780857464269901
-    second: RightSide
+      213: 6171873172782267675
+    second: Starting_Room_HackerVision_12
   - first:
-      213: 7325019488628186205
-    second: BrickWallRightCorner
+      213: 1145044892176658553
+    second: Starting_Room_HackerVision_0
   - first:
-      213: -4143757618361404093
-    second: BrickWallLeftEdge
+      213: 6704342561876823638
+    second: Starting_Room_HackerVision_1
   - first:
-      213: 2370952781863325095
-    second: BrickWallBottomEdge
+      213: 7004709487264442998
+    second: Starting_Room_HackerVision_2
   - first:
-      213: 9023510601833113567
-    second: BrickWallRightEdge
+      213: 6511581271524937302
+    second: Starting_Room_HackerVision_3
   - first:
-      213: -1354592197291566579
-    second: BottomCorner
+      213: -7365612629262570160
+    second: Starting_Room_HackerVision_4
   - first:
-      213: 1485183834797967638
-    second: BottomCorner2
+      213: 1309265650961784541
+    second: Starting_Room_HackerVision_5
   - first:
-      213: 6389054709746716274
-    second: WoodenFloor
+      213: 2020424012080844304
+    second: Starting_Room_HackerVision_6
   - first:
-      213: 1433983741837561688
-    second: BrickWall
+      213: 1654424318303737318
+    second: Starting_Room_HackerVision_7
   - first:
-      213: 3046305368589339187
-    second: BrickLeftCorner
+      213: 8721452642198043203
+    second: Starting_Room_HackerVision_8
   - first:
-      213: -8061624655441675125
-    second: BrickRightCorner
+      213: 8814274990835740702
+    second: Starting_Room_HackerVision_9
   - first:
-      213: 2350711084493434183
-    second: LeftCorner
+      213: -6486310258426304815
+    second: Starting_Room_HackerVision_10
   - first:
-      213: 7325019488628186205
-    second: TopEdge
+      213: 4013473797781464802
+    second: Starting_Room_HackerVision_11
   - first:
-      213: -4143757618361404093
-    second: LeftSide
+      213: 5219362840245169809
+    second: Starting_Room_HackerVision_12
   - first:
-      213: 2370952781863325095
-    second: BottomCorner
+      213: 7351170434868321765
+    second: Starting_Room_HackerVision_13
   - first:
-      213: 9023510601833113567
-    second: Starting_Room_10
-  - first:
-      213: 5151254348985856196
-    second: WoodenFloor
-  - first:
-      213: 6903036474961168806
-    second: BrickWall
-  - first:
-      213: 5378033791089036158
-    second: BrickLeftCorner
-  - first:
-      213: -2672815949539547019
-    second: BrickRightCorner
-  - first:
-      213: 8775792755276776347
-    second: LeftCorner
-  - first:
-      213: 142394729343596658
-    second: RightCorner
-  - first:
-      213: 3109356714001633092
-    second: RightSide
-  - first:
-      213: 4553504192132230504
-    second: TopEdge
-  - first:
-      213: -7984740945143856264
-    second: LeftSide
-  - first:
-      213: -4297262878915151206
-    second: BottomCorner
-  - first:
-      213: -4173411502015831137
-    second: Starting_Room_10
-  - first:
-      213: 5151254348985856196
-    second: WoodenFloor
-  - first:
-      213: 6903036474961168806
-    second: BrickWall
-  - first:
-      213: 5378033791089036158
-    second: Starting_Room_2
-  - first:
-      213: 5151254348985856196
-    second: CornerLeft
-  - first:
-      213: 6903036474961168806
-    second: CornerRight
-  - first:
-      213: 6389054709746716274
-    second: WoodenFloor
-  - first:
-      213: 1433983741837561688
-    second: BrickWall
-  - first:
-      213: -2672815949539547019
-    second: Starting_Room_3
-  - first:
-      213: 8775792755276776347
-    second: Starting_Room_4
-  - first:
-      213: -5977883557843236960
-    second: Starting_Room_0
-  - first:
-      213: 2842430750767590542
-    second: Starting_Room_1
-  - first:
-      213: 3046305368589339187
-    second: Starting_Room_2
-  - first:
-      213: -8061624655441675125
-    second: Starting_Room_3
-  - first:
-      213: 142394729343596658
-    second: Starting_Room_5
-  - first:
-      213: 3109356714001633092
-    second: Starting_Room_6
-  - first:
-      213: 4553504192132230504
-    second: Starting_Room_7
-  - first:
-      213: -7984740945143856264
-    second: Starting_Room_8
-  - first:
-      213: 2370952781863325095
-    second: Starting_Room_9
-  - first:
-      213: -7314647878486124550
-    second: Starting_Room_11
-  - first:
-      213: 1485183834797967638
-    second: Starting_Room_12
-  - first:
-      213: -827904103683441690
-    second: Starting_Room_13
-  - first:
-      213: -4099933230153728347
-    second: Starting_Room_14
-  - first:
-      213: 1818360477049872633
-    second: Starting_Room_0
-  - first:
-      213: -7928918904870990623
-    second: Starting_Room_1
-  - first:
-      213: -6966988340024822362
-    second: Starting_Room_2
-  - first:
-      213: 6451377696376704233
-    second: Starting_Room_3
-  - first:
-      213: 7216876733828811744
-    second: Starting_Room_4
-  - first:
-      213: 8224014301649250914
-    second: Starting_Room_5
-  - first:
-      213: -8259234665208173815
-    second: Starting_Room_6
-  - first:
-      213: 6936873093295964146
-    second: Starting_Room_7
-  - first:
-      213: 489519487678927337
-    second: Starting_Room_8
-  - first:
-      213: 8053037442529205689
-    second: Starting_Room_9
-  - first:
-      213: 1512994813022294460
-    second: Starting_Room_10
-  - first:
-      213: 5784619170295165241
-    second: Starting_Room_11
-  - first:
-      213: 3758019538881652504
-    second: Starting_Room_12
-  - first:
-      213: 3074715068194768924
-    second: Starting_Room_13
-  - first:
-      213: -6982138559895620128
-    second: Starting_Room_14
+      213: 167953262957207670
+    second: Starting_Room_HackerVision_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -329,7 +185,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starting_Room_0
+      name: Starting_Room_HackerVision_0
       rect:
         serializedVersion: 2
         x: 0
@@ -343,14 +199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f0ea24483d1c3910800000000000000
-      internalID: 1818360477049872633
+      spriteID: 970b012434404ef00800000000000000
+      internalID: 1145044892176658553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_1
+      name: Starting_Room_HackerVision_1
       rect:
         serializedVersion: 2
         x: 16
@@ -364,14 +220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ec0946e342d6f190800000000000000
-      internalID: -7928918904870990623
+      spriteID: 65e4335f90c9a0d50800000000000000
+      internalID: 6704342561876823638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_2
+      name: Starting_Room_HackerVision_2
       rect:
         serializedVersion: 2
         x: 32
@@ -385,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a538867409405f90800000000000000
-      internalID: -6966988340024822362
+      spriteID: 67aa4378a2ab53160800000000000000
+      internalID: 7004709487264442998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_3
+      name: Starting_Room_HackerVision_3
       rect:
         serializedVersion: 2
         x: 48
@@ -406,14 +262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ec496085d5e78950800000000000000
-      internalID: 6451377696376704233
+      spriteID: 65e8457aaa8cd5a50800000000000000
+      internalID: 6511581271524937302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_4
+      name: Starting_Room_HackerVision_4
       rect:
         serializedVersion: 2
         x: 64
@@ -427,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ebc5ab172f772460800000000000000
-      internalID: 7216876733828811744
+      spriteID: 05d6caf965618c990800000000000000
+      internalID: -7365612629262570160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_5
+      name: Starting_Room_HackerVision_5
       rect:
         serializedVersion: 2
         x: 80
@@ -448,14 +304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26a29854f61912270800000000000000
-      internalID: 8224014301649250914
+      spriteID: dde923a3c227b2210800000000000000
+      internalID: 1309265650961784541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_6
+      name: Starting_Room_HackerVision_6
       rect:
         serializedVersion: 2
         x: 96
@@ -469,14 +325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90bacafc4dd416d80800000000000000
-      internalID: -8259234665208173815
+      spriteID: 01e8fbf2fecf90c10800000000000000
+      internalID: 2020424012080844304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_7
+      name: Starting_Room_HackerVision_7
       rect:
         serializedVersion: 2
         x: 112
@@ -490,14 +346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fffed14359b44060800000000000000
-      internalID: 6936873093295964146
+      spriteID: 6e51348e622b5f610800000000000000
+      internalID: 1654424318303737318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_8
+      name: Starting_Room_HackerVision_8
       rect:
         serializedVersion: 2
         x: 128
@@ -511,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e1dbb5616f1bc600800000000000000
-      internalID: 489519487678927337
+      spriteID: 34a3b9748f2d80970800000000000000
+      internalID: 8721452642198043203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_9
+      name: Starting_Room_HackerVision_9
       rect:
         serializedVersion: 2
         x: 0
@@ -532,14 +388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bd9fdc13e222cf60800000000000000
-      internalID: 8053037442529205689
+      spriteID: e10bf557768925a70800000000000000
+      internalID: 8814274990835740702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_10
+      name: Starting_Room_HackerVision_10
       rect:
         serializedVersion: 2
         x: 16
@@ -553,14 +409,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb1d33924cc3ff410800000000000000
-      internalID: 1512994813022294460
+      spriteID: 1d627879f2ffbf5a0800000000000000
+      internalID: -6486310258426304815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_11
+      name: Starting_Room_HackerVision_11
       rect:
         serializedVersion: 2
         x: 32
@@ -574,14 +430,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 931bb56bc78174050800000000000000
-      internalID: 5784619170295165241
+      spriteID: 2e62a10a729b2b730800000000000000
+      internalID: 4013473797781464802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_12
+      name: Starting_Room_HackerVision_12
       rect:
         serializedVersion: 2
         x: 48
@@ -595,14 +451,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 817a40a1cda272430800000000000000
-      internalID: 3758019538881652504
+      spriteID: 19eefae89d6ee6840800000000000000
+      internalID: 5219362840245169809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_13
+      name: Starting_Room_HackerVision_13
       rect:
         serializedVersion: 2
         x: 0
@@ -616,14 +472,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c184a4160159baa20800000000000000
-      internalID: 3074715068194768924
+      spriteID: 5ed1ea5ff8a940660800000000000000
+      internalID: 7351170434868321765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starting_Room_14
+      name: Starting_Room_HackerVision_14
       rect:
         serializedVersion: 2
         x: 16
@@ -637,8 +493,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e53dd409f57a1f90800000000000000
-      internalID: -6982138559895620128
+      spriteID: 670ae615a90b45200800000000000000
+      internalID: 167953262957207670
       vertices: []
       indices: 
       edges: []
